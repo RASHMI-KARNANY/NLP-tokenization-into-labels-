@@ -1,0 +1,1 @@
+Tokenisation.py = To create a system which can alter a string into tokens/words excluding the case, punctuations, stopwords and also stemming.
